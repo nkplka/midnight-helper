@@ -1,0 +1,8 @@
+[midnight loader name]
+exe=rename.exe
+[commands]
+vgc=sc stop vgc
+vgk=sc stop vgk
+faceit=sc stop faceit
+[other]
+hideconsole=false
